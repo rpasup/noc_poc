@@ -1,0 +1,10 @@
+	"source":
+	{
+		"path": ["Source_SecureAgent_Name"],
+		"type": "AgentGroup"
+	},
+	"target":
+	{
+		"path": ["Target_SecureAgent_Name"],
+		"type": "AgentGroup"
+	}comma
