@@ -1,2 +1,8 @@
-file1mtt
-file2mtt
+base_template
+commit_id_files_list.txt
+exisitingscript.txt
+finalfile.txt
+replacable_script.txt
+targent_agent.txt
+targent_agent_list.txt
+update_script.sh
