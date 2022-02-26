@@ -1,0 +1,3 @@
+mapping_files/dev
+mapping_files/preprod
+mapping_files/prod
