@@ -1,9 +1,4 @@
-commit_id_files_list.txt
 file1mtt
 file2mtt
 file3mtt
 file4mtt
-finalfile.txt
-replacable_script.txt
-searchagent_list.txt
-targent_agent_list.txt
